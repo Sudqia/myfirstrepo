@@ -1,0 +1,42 @@
+header {
+    background-color: blue;
+    color: white;
+}
+
+.container {
+    background-color: lightgray;
+    color: black;
+}
+
+.highlight {
+color: green;
+}
+
+.Sudqia {
+    text-align: center;
+}
+a {
+  text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6 {
+    text-decoration: dashed;
+}
+.bold-text {
+    font-weight: bold;
+}
+#intro{
+    font-weight: 300;
+}
+<!--Q10-->
+body {
+    font-family: Arial, sans-serif;
+}
+.custom-font {
+    font-family: 'Times New Roman',  serif;
+}
+.capitalize-text {
+    text-transform: capitalize;
+}
+.main-content {
+    background-color: yellow;
+}
